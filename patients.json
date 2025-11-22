@@ -1,0 +1,2 @@
+{"name": "inès", "symptoms": "toux, mal de gorge, fièvre, mal de tête", "temperature": 37.5, "heart_rate": 77, "condition": "Probable infection respiratoire supérieure, comme un rhume ou une grippe.", "urgency": "medium", "timestamp": "2025-11-21T11:12:01.490660"}
+{"name": "inès", "symptoms": "nez qui gratte", "temperature": 36.5, "heart_rate": 65, "condition": "Rhinite (inflammation de la muqueuse nasale)", "urgency": "low", "timestamp": "2025-11-21T11:18:21.789911"}

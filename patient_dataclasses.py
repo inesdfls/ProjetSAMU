@@ -6,5 +6,4 @@ class PatientRequest:
     name: str
     prediagnosis: PreDiagnosis
     temperature: float
-    tension: str
     heart_rate: int
